@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/B-Mikhail-V/ajs-homework_3_use/issues"
   },
-  "homepage": "https://github.com/B-Mikhail-V/ajs-homework_3_use#readme"
+  "homepage": "https://github.com/B-Mikhail-V/ajs-homework_3_use#readme",
+  "dependencies": {
+    "@b-mikhail-v/ajs-homework_3-2": "^1.0.0"
+  }
 }
